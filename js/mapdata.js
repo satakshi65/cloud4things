@@ -189,8 +189,8 @@ var simplemaps_countrymap_mapdata={
       "17": {
         name: "Karnataka",
         description: "",
-        color: "#fff",
-        hover_color:  "#fff",
+        color: "default",
+        hover_color:  "#0791A8",
         //url: "default"
       },
       "18": {
@@ -318,8 +318,8 @@ var simplemaps_countrymap_mapdata={
       "34": {
         name: "Uttarakhand",
         description: "",
-        color: "#fff",
-        hover_color:  "#fff",
+        color: "default",
+        hover_color:  "#0791A8",
         //url: "default"
       },
       "35": {
