@@ -191,7 +191,6 @@ var simplemaps_countrymap_mapdata={
         description: "",
         color: "#fff",
         hover_color:  "#fff",
-        inactive: "yes",
         //url: "default"
       },
       "18": {
@@ -321,7 +320,6 @@ var simplemaps_countrymap_mapdata={
         description: "",
         color: "#fff",
         hover_color:  "#fff",
-        inactive: "yes",
         //url: "default"
       },
       "35": {
