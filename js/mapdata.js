@@ -295,9 +295,8 @@ var simplemaps_countrymap_mapdata={
       "31": {
         name: "Tamil Nadu",
         description: "",
-        color: "#fff",
-        hover_color:  "#fff",
-        inactive: "yes",
+        color: "default",
+        hover_color:  "#0791A8",
         //url: "default"
       },
       "32": {
